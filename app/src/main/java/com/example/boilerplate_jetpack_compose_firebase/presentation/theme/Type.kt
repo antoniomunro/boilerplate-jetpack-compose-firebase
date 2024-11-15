@@ -1,4 +1,4 @@
-package com.example.boilerplate_jetpack_compose_firebase.ui.theme
+package com.example.boilerplate_jetpack_compose_firebase.presentation.theme
 
 import androidx.compose.material3.Typography
 import androidx.compose.ui.text.TextStyle

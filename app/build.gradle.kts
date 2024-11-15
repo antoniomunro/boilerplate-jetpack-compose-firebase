@@ -5,7 +5,7 @@ plugins {
 
 android {
     namespace = "com.example.boilerplate_jetpack_compose_firebase"
-    compileSdk = 34
+    compileSdk = 35
 
     defaultConfig {
         applicationId = "com.example.boilerplate_jetpack_compose_firebase"
